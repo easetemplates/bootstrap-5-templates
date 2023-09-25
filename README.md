@@ -5,4 +5,4 @@ List of Bootstrap 5 templates
 | Name & Demo  
 | -------------  
 | [AboutMe Personal Portfolio Template]([https://www.google.com](https://easetemplate.com/downloads/about-me-personal-portfolio-website-template/)https://easetemplate.com/downloads/about-me-personal-portfolio-website-template/)   
-| Content Cell 
+| [Content Cell](https://easetemplate.com/downloads/about-me-personal-portfolio-website-template/)
